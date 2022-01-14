@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I do web development, and data intensive applications. I've mainly done Ruby and JavaScript, and have gotten more into Elixir as a technology of choice. 
+I do web development. I like data intensive applications. I've mainly done Ruby and JavaScript, and have gotten more into Elixir as a technology of choice. 
 
 Single-threaded things are hard to scale, which is why I look for tech that solves the hard problems for you, so that I don't have to.
 
