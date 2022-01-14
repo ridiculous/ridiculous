@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I do web development, and data intensive applications. I've mainly done Ruby and JavaScript, and have gotten more into Elixir as a technology of choice. Single-threaded things are hard to scale, and I'm looking for tech that moves us forward by solving hard problems, so that I can focus on building cool stuff.
+I do web development, and data intensive applications. I've mainly done Ruby and JavaScript, and have gotten more into Elixir as a technology of choice. 
+
+Single-threaded things are hard to scale, which is why I look for tech that solves the hard problems for you, so that I don't have to.
+
+> The best code is no code at all
 
 I'm currently working for the University of Hawaii, building an [event-sourced system](https://martinfowler.com/articles/201701-event-driven.html).
 
