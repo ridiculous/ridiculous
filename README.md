@@ -4,7 +4,7 @@ I do web development. I like data intensive applications, because they really ge
 
 > The best code is no code at all
 
-I'm currently working for the University of Hawaii, building an [event-sourced system](https://martinfowler.com/articles/201701-event-driven.html).
+I'm currently working as a full-stack contractor.
 
 <!--
 **ridiculous/ridiculous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
